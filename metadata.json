@@ -1,0 +1,5 @@
+{
+  "name": "Java ATM Simulator",
+  "description": "A web-based simulation of a classic ATM interface, styled with a nod to Java's aesthetic. Users can check their balance, withdraw, and deposit funds in this interactive demo.",
+  "requestFramePermissions": []
+}
